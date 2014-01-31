@@ -22,7 +22,7 @@ mocha = (done) ->
 
     options = []
     options.push '--compilers'
-    options.push 'coffee:coffee-script'
+    options.push 'coffee:coffee-script/register'
 
     # Colors!
     options.push '-c'
