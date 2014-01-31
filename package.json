@@ -2,7 +2,11 @@
   "name":              "coffee-source-map",
   "description":       "Implementation of v3 sourcemaps in coffee-script.",
   "keywords":          ["sourcemaps", "v3", "coffee-script"],
-  "version":           "1.0.1",
+  "version":           "1.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benbria/coffee-source-map.git"
+  },
   "author":            "Jason Walton (https://github.com/jwalton)",
   "contributors": [
       "Jason Walton <dev@lucid.thedreaming.org> (https://github.com/jwalton)",
